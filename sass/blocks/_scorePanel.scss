@@ -1,7 +1,7 @@
 .game {
     position: relative;
     background: linear-gradient(to bottom, #1f3756, #141539) ;
-    height: 100vh;
+    min-height: 1200px;
     padding-top: 10%;
     &__score-wrapper {
         display: flex;
